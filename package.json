@@ -1,0 +1,23 @@
+{
+  "name": "epng",
+  "version": "1.0.0",
+  "description": "Project for Papua New Guinea or developing countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bneiluj/epng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bneiluj/epng/issues"
+  },
+  "homepage": "https://github.com/bneiluj/epng#readme",
+  "devDependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
+}
